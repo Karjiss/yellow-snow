@@ -1,4 +1,4 @@
 # yellow-snow
-Just a repository, dont think about it.
+Just a repository about yellow snow, dont think about it.
 
 Hello World!
